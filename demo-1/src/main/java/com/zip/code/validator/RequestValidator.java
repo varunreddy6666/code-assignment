@@ -1,4 +1,4 @@
-package com.zip.code;
+package com.zip.code.validator;
 
 import java.util.ArrayList;
 import java.util.List;

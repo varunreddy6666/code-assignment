@@ -17,6 +17,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 import com.zip.code.model.CityRequestModel;
 import com.zip.code.model.CityResponseModel;
 import com.zip.code.service.ZipService;
+import com.zip.code.validator.RequestValidator;
 
 @RestController
 public class ZipController {
